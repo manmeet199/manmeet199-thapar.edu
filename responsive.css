@@ -1,2 +1,15 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+  
+}
 
-
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  .header-right {
+    
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+}
