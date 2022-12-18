@@ -1,1 +1,1 @@
-# manmeet199@thapar.edu
+# manmeet199-thapar.edu
