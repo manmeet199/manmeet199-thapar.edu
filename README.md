@@ -1,1 +1,1 @@
-# manmeet199.github.io
+# manmeet199@thapar.edu
